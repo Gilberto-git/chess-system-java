@@ -8,6 +8,7 @@ public class program {
 		 String x  ;
 		 Scanner sc = new Scanner(System.in);
 		System.out.println("hello, World, tecle ENTER");
+		System.out.println("hello, World, tecle ENTER");
 		x =sc.nextLine();
 		sc.close();
 		System.out.println("fim");
